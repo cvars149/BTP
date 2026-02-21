@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Method 2: SENSE Framework - OD (Orthogonal Distance) Method on German Credit Dataset
 =====================================================================================
